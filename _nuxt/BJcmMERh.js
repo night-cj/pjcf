@@ -1,0 +1,1 @@
+import{_ as e}from"./DlAUqK2U.js";import{c as t,C as s,o as r}from"./YJu4pVuE.js";const c={},n={class:"login-layout"};function a(o,l){return r(),t("div",n,[s(o.$slots,"default")])}const i=e(c,[["render",a]]);export{i as default};
